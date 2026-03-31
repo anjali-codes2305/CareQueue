@@ -1,0 +1,7 @@
+project_id = "qolatrrnnkhvxkgquwmt"
+
+[functions.create-employee]
+verify_jwt = false
+
+[functions.create-patient-account]
+verify_jwt = false
