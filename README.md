@@ -20,6 +20,6 @@ Intelligent Hospital Queue & Patient Flow Platform. Replace static token systems
 2. Start the development server:
    ```bash
    npm run dev
-   ```
-
+   '''
+'
 3. Configure Supabase credentials in your `.env` file to enable authentication and database modules.
